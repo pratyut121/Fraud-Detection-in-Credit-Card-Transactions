@@ -11,14 +11,14 @@ Period: 1st Jan’19 – 30th Jun’20.
 800 merchants
 1.3 Million Observations and 23 Covariates
 
-Data Preprocessing:
+### Data Preprocessing:
 
-Data cleaning:
+#### Data cleaning:
 
 -Check Null Values
 -Distribution
 
-Data Transformation
+#### Data Transformation
 
 -Encoded categorical features
 -Normalisation
