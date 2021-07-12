@@ -15,8 +15,8 @@ Period: 1st Jan’19 – 30th Jun’20.
 
 #### Data cleaning:
 
--Check Null Values
--Distribution
+- Check Null Values
+- Distribution
 
 #### Data Transformation
 
@@ -26,7 +26,7 @@ Period: 1st Jan’19 – 30th Jun’20.
 
 - Feature Selection
  
-- Extra tree classifier
-- Forward Stepwise Regression
+-  Extra tree classifier
+-  Forward Stepwise Regression
 
 
