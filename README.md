@@ -29,4 +29,20 @@ Period: 1st Jan’19 – 30th Jun’20.
 -  Extra tree classifier
 -  Forward Stepwise Regression
 
+#### Data balancing Technique
+
+- Smote(Oversampling)
+
+### Modelling
+
+- Logistic Regression
+- K Nearest Neighbour
+- Random Forest Classifier
+
+### Performance Measurement
+
+- Confusion Matrix
+- ROC Curve
+
+
 
