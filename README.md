@@ -1,4 +1,4 @@
-# Fraud-Detection-in-Credit-Card-Transactions
+# Fraud Detection in Credit Card Transactions
 This project involves identification of fraudulent transactions keeping in view the cost of mis-classification or wrong classification.
 
 Data generated using Sparkov Data Generation Github tool
@@ -11,15 +11,18 @@ Period: 1st Jan’19 – 30th Jun’20.
 800 merchants
 1.3 Million Observations and 23 Covariates
 
-Data Preprocessing
+Data Preprocessing:
+
 Data cleaning:
 -Check Null Values
 -Distribution
+
 Data Transformation
 -Encoded categorical features
 -Normalisation
 -Feature Selection
-Extra tree classifier
-Forward Stepwise Regression
+ 
+- Extra tree classifier
+- Forward Stepwise Regression
 
 
