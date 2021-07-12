@@ -20,9 +20,11 @@ Period: 1st Jan’19 – 30th Jun’20.
 
 #### Data Transformation
 
--Encoded categorical features
--Normalisation
--Feature Selection
+- Encoded categorical features
+
+- Normalisation
+
+- Feature Selection
  
 - Extra tree classifier
 - Forward Stepwise Regression
