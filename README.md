@@ -14,10 +14,12 @@ Period: 1st Jan’19 – 30th Jun’20.
 Data Preprocessing:
 
 Data cleaning:
+
 -Check Null Values
 -Distribution
 
 Data Transformation
+
 -Encoded categorical features
 -Normalisation
 -Feature Selection
