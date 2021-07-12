@@ -39,7 +39,7 @@ Period: 1st Jan’19 – 30th Jun’20.
 - K Nearest Neighbour
 - Random Forest Classifier
 
-### Performance Measurement
+### Model Performance 
 
 - Confusion Matrix
 - ROC Curve
